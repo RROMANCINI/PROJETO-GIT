@@ -1,1 +1,2 @@
-print("esse foi o código q resolveu o bug2")
+print("esse foi o código q resolveu o bug")
+
